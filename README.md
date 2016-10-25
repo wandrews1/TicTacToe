@@ -1,5 +1,3 @@
-Author - Billy Andrews
-
 TicTacToe is a Java-based game with a GUI.
 
 The player can choose to play in 1-player mode or 2-player mode.
@@ -11,3 +9,5 @@ In 2-player mode, two human players take turns choosing which button they want t
 2-player: Two humans can take turns choosing their destiny.
 
 Enjoy.
+
+Author - Billy Andrews
