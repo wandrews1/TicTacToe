@@ -9,5 +9,3 @@ In 2-player mode, two human players take turns choosing which button they want t
 2-player: Two humans can take turns choosing their destiny.
 
 Enjoy.
-
-Author - Billy Andrews
