@@ -1,5 +1,5 @@
-TicTacToe
-=========
+## TicTacToe
+
 TicTacToe is a Java-based game with a GUI.
 
 0. The player can choose to play in 1-player mode or 2-player mode.
@@ -17,19 +17,20 @@ TicTacToe is a Java-based game with a GUI.
   
 Please see [contributing guidelines](CONTRIBUTING.md) before reporting an issue.
   
-  
-Installation:
--------------
-Installation is not available at this time.
 
 
---------------------------------
-Developers:
------------
+## Installation:
+
+  Installation is not available at this time.
+
+
+
+## Developers:
+
   Billy Andrews
   
   
-Contributing:
-------------
+## Contributing:
+
 
 See [Contributing](CONTRIBUTING.md)
