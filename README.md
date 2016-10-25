@@ -2,7 +2,7 @@
 
 TicTacToe is a Java-based game with a GUI.
 
-0. The player can choose to play in 1-player mode or 2-player mode.
+The player can choose to play in 1-player mode or 2-player mode.
 
 - In **1-player mode**, the player challenges the computer.
   - **1-player: Normal mode:** The player clicks and the computer will choose a random button to press.
@@ -22,7 +22,7 @@ Please see [contributing guidelines](CONTRIBUTING.md) before reporting an issue.
 
 ## Developers:
 
-  Billy Andrews
+  [Billy Andrews](https://github.com/wandrews1)
   
   
 ## Contributing:
