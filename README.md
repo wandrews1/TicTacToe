@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# TipshareCalculator
-This tool was made originally for Park Lane Tavern in Fredericksburg, VA to handle the tipshares between bartenders. The program was made using Java's Swing tool kit.
-=======
 ## TicTacToe
 
 TicTacToe is a Java-based game with a GUI.
@@ -33,4 +29,3 @@ Please see [contributing guidelines](CONTRIBUTING.md) before reporting an issue.
 
 
 See [Contributing](CONTRIBUTING.md)
->>>>>>> 4d26ad4dcf6794592cc011ebe921b389efe518b6
